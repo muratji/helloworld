@@ -1,7 +1,7 @@
 public class HelloWorld {
 
   public static void main(String args[]) {
-    System.out.println("Hello word Jesus loves you!");
+    System.out.println("Hello world Jesus loves you!");
   }
   
 }
